@@ -1,8 +1,10 @@
-##  Olá, meu nome é Artur Valença!
+##  Hi, i'm Artur Valença
 
-Sou estudante de Ciências da Computação na CESAR school e estou iniciando agora minha jornada na área de programação.;
+ - Computer Science student at CESAR School;
+ - Currently interested in software development;
+ - Pronouns: He/him;
 
-## Redes
+## Reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturvalenca/)
 <a href="mailto:arturvcrv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -18,5 +20,6 @@ Sou estudante de Ciências da Computação na CESAR school e estou iniciando ago
   <img width="12" />
 </div>
 
----
+
+
 
